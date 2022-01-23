@@ -1,3 +1,5 @@
 # RRO Overlays
 PRODUCT_PACKAGES += \
-    PixelLauncherIconsOverlay
+    PixelLauncherIconsOverlay \
+    Launhcer3IconsOVerlay \
+    LawnchairIconsOverlay
